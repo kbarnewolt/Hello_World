@@ -9,7 +9,7 @@ I'm originally from a small town in central Illinois called Brimfield. Currently
 
 *Intermediate*: SQL, Bloomberg
 
-*Beginner*: Python, R, Github
+*Beginner*: Python, R, Github, HTML, CSS
 
 ##### Student Organizations
 * HawkTrade Investment Club *(Director of Research)*
